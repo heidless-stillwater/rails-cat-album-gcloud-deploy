@@ -1,0 +1,8 @@
+{
+  "enabled": false,
+  "extends": [
+    "config:base",
+    ":disableDependencyDashboard"
+  ],
+  "rangeStrategy": "widen"
+}

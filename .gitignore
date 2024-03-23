@@ -1,0 +1,13 @@
+.ruby-version
+.ruby-gemset
+client_secrets.json
+.bundle/
+vendor/
+.vscode/
+sponge_log.xml
+/Gemfile.lock
+.DS_Store
+*/.idea
+.idea
+tmp/
+log/
